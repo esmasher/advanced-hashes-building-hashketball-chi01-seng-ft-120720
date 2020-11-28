@@ -18,7 +18,7 @@ def game_hash
 
       },
       "Reggie Evans" => {
-        numer: 30,
+        number: 30,
         shoe: 14,
         points: 12,
         rebounds: 12,
@@ -28,7 +28,7 @@ def game_hash
         slam_dunks: 7
       },
       "Brook Lopez" => {
-        numer: 11,
+        number: 11,
         shoe: 17,
         points: 17,
         rebounds: 19,
@@ -36,6 +36,24 @@ def game_hash
         steals: 3,
         blocks: 12,
         slam_dunks: 7
-      }
-    } 
+      },
+      "Ben Gordon" => {
+        number: 8,
+        shoe: 15,
+        points: 33,
+        rebounds: 3,
+        assists: 2,
+        steals: 1,
+        blocks: 1,
+        slam_dunks: 0
+    },
+    "Kemba Walker" => {
+        number: 33,
+        shoe: 15,
+        points: 6,
+        rebounds: 12,
+        assists: 12,
+        steals: 7,
+        blocks: 5,
+        slam_dunks: 12
   
